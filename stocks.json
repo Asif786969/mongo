@@ -1,0 +1,1301 @@
+[{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa8f"
+  },
+  "stockSymbol": "VSSL.NS",
+  "stockName": "Vardhman Special",
+  "stockPrice": 181.25,
+  "stockOld": 182.45,
+  "volume": 13982,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa90"
+  },
+  "stockSymbol": "BBL.NS",
+  "stockName": "Bharat Bijlee",
+  "stockPrice": 3774.95,
+  "stockOld": 3797.15,
+  "volume": 7110,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa91"
+  },
+  "stockSymbol": "GENESYS.NS",
+  "stockName": "Genesys Intl.",
+  "stockPrice": 312,
+  "stockOld": 303.2,
+  "volume": 104159,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa92"
+  },
+  "stockSymbol": "NUCLEUS.NS",
+  "stockName": "Nucleus Soft.",
+  "stockPrice": 1029.75,
+  "stockOld": 1061.45,
+  "volume": 65885,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa93"
+  },
+  "stockSymbol": "SUBEXLTD.NS",
+  "stockName": "Subex",
+  "stockPrice": 33.3,
+  "stockOld": 32.8,
+  "volume": 3204796,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa94"
+  },
+  "stockSymbol": "MPSLTD.NS",
+  "stockName": "MPS",
+  "stockPrice": 1418.2,
+  "stockOld": 1400.75,
+  "volume": 9312,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa95"
+  },
+  "stockSymbol": "STYLAMIND.NS",
+  "stockName": "Stylam Industrie",
+  "stockPrice": 1575.8,
+  "stockOld": 1611.45,
+  "volume": 15864,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa96"
+  },
+  "stockSymbol": "TIRUMALCHM.NS",
+  "stockName": "Thirumalai Chem.",
+  "stockPrice": 204.3,
+  "stockOld": 201.95,
+  "volume": 80295,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa97"
+  },
+  "stockSymbol": "HONDAPOWER.NS",
+  "stockName": "Honda India",
+  "stockPrice": 2340,
+  "stockOld": 2341.2,
+  "volume": 12994,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa98"
+  },
+  "stockSymbol": "GRAUWEIL.NS",
+  "stockName": "Grauer & Weil",
+  "stockPrice": 113.85,
+  "stockOld": 117.6,
+  "volume": 241185,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa99"
+  },
+  "stockSymbol": "GOKEX.NS",
+  "stockName": "Gokaldas Exports",
+  "stockPrice": 506.4,
+  "stockOld": 505.75,
+  "volume": 67096,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa9a"
+  },
+  "stockSymbol": "KKCL.NS",
+  "stockName": "Kewal Kir.Cloth.",
+  "stockPrice": 695.2,
+  "stockOld": 694,
+  "volume": 5575,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa9b"
+  },
+  "stockSymbol": "ISMTLTD.NS",
+  "stockName": "ISMT",
+  "stockPrice": 85.2,
+  "stockOld": 86.75,
+  "volume": 140645,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa9c"
+  },
+  "stockSymbol": "TDPOWERSYS.NS",
+  "stockName": "TD Power Systems",
+  "stockPrice": 252.7,
+  "stockOld": 251.05,
+  "volume": 712409,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa9d"
+  },
+  "stockSymbol": "SUNFLAG.NS",
+  "stockName": "Sunflag Iron",
+  "stockPrice": 214.9,
+  "stockOld": 214.75,
+  "volume": 377472,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa9e"
+  },
+  "stockSymbol": "FCL.NS",
+  "stockName": "Fineotex Chem",
+  "stockPrice": 286.9,
+  "stockOld": 288.2,
+  "volume": 71822,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aa9f"
+  },
+  "stockSymbol": "MAITHANALL.NS",
+  "stockName": "Maithan Alloys",
+  "stockPrice": 1059.2,
+  "stockOld": 1082.2,
+  "volume": 27711,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa0"
+  },
+  "stockSymbol": "MAHSEAMLES.NS",
+  "stockName": "Mah. Seamless",
+  "stockPrice": 481.95,
+  "stockOld": 479.35,
+  "volume": 82988,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa1"
+  },
+  "stockSymbol": "POLYPLEX.NS",
+  "stockName": "Polyplex Corpn",
+  "stockPrice": 1196.1,
+  "stockOld": 1255.2,
+  "volume": 260433,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa2"
+  },
+  "stockSymbol": "BCG.NS",
+  "stockName": "Brightcom Group",
+  "stockPrice": 24.75,
+  "stockOld": 24.65,
+  "volume": 2471763,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa3"
+  },
+  "stockSymbol": "ACE.NS",
+  "stockName": "Action Const.Eq.",
+  "stockPrice": 778.7,
+  "stockOld": 773.5,
+  "volume": 182340,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa4"
+  },
+  "stockSymbol": "OLECTRA.NS",
+  "stockName": "Olectra Greentec",
+  "stockPrice": 1019,
+  "stockOld": 1058.55,
+  "volume": 468894,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa5"
+  },
+  "stockSymbol": "IONEXCHANG.NS",
+  "stockName": "ION Exchange",
+  "stockPrice": 489.5,
+  "stockOld": 498.9,
+  "volume": 64301,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa6"
+  },
+  "stockSymbol": "GARFIBRES.NS",
+  "stockName": "Garware Tech.",
+  "stockPrice": 3172.6,
+  "stockOld": 3123.65,
+  "volume": 4048,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa7"
+  },
+  "stockSymbol": "PRAJIND.NS",
+  "stockName": "Praj Industries",
+  "stockPrice": 474.9,
+  "stockOld": 487.4,
+  "volume": 694433,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa8"
+  },
+  "stockSymbol": "BSOFT.NS",
+  "stockName": "Birlasoft Ltd",
+  "stockPrice": 442.25,
+  "stockOld": 445.3,
+  "volume": 736093,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaa9"
+  },
+  "stockSymbol": "CERA.NS",
+  "stockName": "Cera Sanitary.",
+  "stockPrice": 8370,
+  "stockOld": 8396.4,
+  "volume": 16426,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaaa"
+  },
+  "stockSymbol": "BALRAMCHIN.NS",
+  "stockName": "Balrampur Chini",
+  "stockPrice": 392.7,
+  "stockOld": 395.2,
+  "volume": 423589,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaab"
+  },
+  "stockSymbol": "TANLA.NS",
+  "stockName": "Tanla Platforms",
+  "stockPrice": 1160.7,
+  "stockOld": 1163.75,
+  "volume": 207281,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaac"
+  },
+  "stockSymbol": "APARINDS.NS",
+  "stockName": "Apar Inds.",
+  "stockPrice": 3980,
+  "stockOld": 3974.9,
+  "volume": 33105,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaad"
+  },
+  "stockSymbol": "GNFC.NS",
+  "stockName": "G N F C",
+  "stockPrice": 545.1,
+  "stockOld": 548.25,
+  "volume": 356248,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaae"
+  },
+  "stockSymbol": "HINDCOPPER.NS",
+  "stockName": "Hindustan Copper",
+  "stockPrice": 152.9,
+  "stockOld": 148.25,
+  "volume": 6414715,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaaf"
+  },
+  "stockSymbol": "AKZOINDIA.NS",
+  "stockName": "Akzo Nobel",
+  "stockPrice": 2831.45,
+  "stockOld": 2814.75,
+  "volume": 4742,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab0"
+  },
+  "stockSymbol": "TEJASNET.NS",
+  "stockName": "Tejas Networks",
+  "stockPrice": 814.25,
+  "stockOld": 819.7,
+  "volume": 104782,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab1"
+  },
+  "stockSymbol": "FINPIPE.NS",
+  "stockName": "Finolex Inds.",
+  "stockPrice": 203.75,
+  "stockOld": 203.15,
+  "volume": 120777,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab2"
+  },
+  "stockSymbol": "TRITURBINE.NS",
+  "stockName": "Triveni Turbine",
+  "stockPrice": 401.8,
+  "stockOld": 399,
+  "volume": 163951,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab3"
+  },
+  "stockSymbol": "CENTURYPLY.NS",
+  "stockName": "Century Plyboard",
+  "stockPrice": 611.75,
+  "stockOld": 623.3,
+  "volume": 43796,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab4"
+  },
+  "stockSymbol": "SONATSOFTW.NS",
+  "stockName": "Sonata Software",
+  "stockPrice": 1063.2,
+  "stockOld": 1068,
+  "volume": 350136,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab5"
+  },
+  "stockSymbol": "LAXMIMACH.NS",
+  "stockName": "Lak. Mach. Works",
+  "stockPrice": 13193.75,
+  "stockOld": 13175.15,
+  "volume": 1711,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab6"
+  },
+  "stockSymbol": "FINCABLES.NS",
+  "stockName": "Finolex Cables",
+  "stockPrice": 1089.9,
+  "stockOld": 1088.65,
+  "volume": 140304,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab7"
+  },
+  "stockSymbol": "RHIM.NS",
+  "stockName": "RHI Magnesita",
+  "stockPrice": 703.6,
+  "stockOld": 674.2,
+  "volume": 401836,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab8"
+  },
+  "stockSymbol": "BAJAJELEC.NS",
+  "stockName": "Bajaj Electrical",
+  "stockPrice": 1195.45,
+  "stockOld": 1220.05,
+  "volume": 63801,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aab9"
+  },
+  "stockSymbol": "ALKYLAMINE.NS",
+  "stockName": "Alkyl Amines",
+  "stockPrice": 2336,
+  "stockOld": 2332.95,
+  "volume": 9238,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaba"
+  },
+  "stockSymbol": "SANOFI.NS",
+  "stockName": "Sanofi India",
+  "stockPrice": 7143,
+  "stockOld": 7322.95,
+  "volume": 42543,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aabb"
+  },
+  "stockSymbol": "IEX.NS",
+  "stockName": "Indian Energy Ex",
+  "stockPrice": 129.8,
+  "stockOld": 129.1,
+  "volume": 1879834,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aabc"
+  },
+  "stockSymbol": "NATIONALUM.NS",
+  "stockName": "Natl. Aluminium",
+  "stockPrice": 94.25,
+  "stockOld": 95,
+  "volume": 2684159,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aabd"
+  },
+  "stockSymbol": "KEI.NS",
+  "stockName": "KEI Industries",
+  "stockPrice": 2341.15,
+  "stockOld": 2366.05,
+  "volume": 54283,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aabe"
+  },
+  "stockSymbol": "AJANTPHARM.NS",
+  "stockName": "Ajanta Pharma",
+  "stockPrice": 1743.25,
+  "stockOld": 1745.9,
+  "volume": 18796,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aabf"
+  },
+  "stockSymbol": "RADICO.NS",
+  "stockName": "Radico Khaitan",
+  "stockPrice": 1339.85,
+  "stockOld": 1354.35,
+  "volume": 41349,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac0"
+  },
+  "stockSymbol": "KAJARIACER.NS",
+  "stockName": "Kajaria Ceramics",
+  "stockPrice": 1450,
+  "stockOld": 1438.4,
+  "volume": 47570,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac1"
+  },
+  "stockSymbol": "ENDURANCE.NS",
+  "stockName": "Endurance Tech.",
+  "stockPrice": 1655.25,
+  "stockOld": 1699.85,
+  "volume": 76081,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac2"
+  },
+  "stockSymbol": "BAYERCROP.NS",
+  "stockName": "Bayer Crop Sci.",
+  "stockPrice": 4779.6,
+  "stockOld": 4781.1,
+  "volume": 2888,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac3"
+  },
+  "stockSymbol": "CARBORUNIV.NS",
+  "stockName": "Carborundum Uni.",
+  "stockPrice": 1086.7,
+  "stockOld": 1108.15,
+  "volume": 199936,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac4"
+  },
+  "stockSymbol": "VINATIORGA.NS",
+  "stockName": "Vinati Organics",
+  "stockPrice": 1851.85,
+  "stockOld": 1862.25,
+  "volume": 11650,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac5"
+  },
+  "stockSymbol": "ZFCVINDIA.NS",
+  "stockName": "ZF Commercial",
+  "stockPrice": 13390,
+  "stockOld": 13260.65,
+  "volume": 503,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac6"
+  },
+  "stockSymbol": "GRINDWELL.NS",
+  "stockName": "Grindwell Norton",
+  "stockPrice": 2281.3,
+  "stockOld": 2290.45,
+  "volume": 9043,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac7"
+  },
+  "stockSymbol": "IPCALAB.NS",
+  "stockName": "Ipca Labs.",
+  "stockPrice": 914.5,
+  "stockOld": 900.85,
+  "volume": 661114,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac8"
+  },
+  "stockSymbol": "ATUL.NS",
+  "stockName": "Atul",
+  "stockPrice": 6840,
+  "stockOld": 6843.3,
+  "volume": 13243,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aac9"
+  },
+  "stockSymbol": "SUNDRMFAST.NS",
+  "stockName": "Sundram Fasten.",
+  "stockPrice": 1205,
+  "stockOld": 1207.9,
+  "volume": 21635,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaca"
+  },
+  "stockSymbol": "TIMKEN.NS",
+  "stockName": "Timken India",
+  "stockPrice": 3416.9,
+  "stockOld": 3368.7,
+  "volume": 12550,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aacb"
+  },
+  "stockSymbol": "GLAXO.NS",
+  "stockName": "Glaxosmi. Pharma",
+  "stockPrice": 1448.55,
+  "stockOld": 1431.6,
+  "volume": 67895,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aacc"
+  },
+  "stockSymbol": "SKFINDIA.NS",
+  "stockName": "SKF India",
+  "stockPrice": 5090.95,
+  "stockOld": 5108.9,
+  "volume": 2816,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aacd"
+  },
+  "stockSymbol": "DEEPAKNTR.NS",
+  "stockName": "Deepak Nitrite",
+  "stockPrice": 2096.7,
+  "stockOld": 2066.05,
+  "volume": 153632,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aace"
+  },
+  "stockSymbol": "AIAENG.NS",
+  "stockName": "AIA Engineering",
+  "stockPrice": 3623.9,
+  "stockOld": 3587.35,
+  "volume": 111104,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aacf"
+  },
+  "stockSymbol": "THERMAX.NS",
+  "stockName": "Thermax",
+  "stockPrice": 2547.35,
+  "stockOld": 2549.4,
+  "volume": 4958,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad0"
+  },
+  "stockSymbol": "ESCORTS.NS",
+  "stockName": "Escorts Kubota",
+  "stockPrice": 2594,
+  "stockOld": 2583.8,
+  "volume": 62862,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad1"
+  },
+  "stockSymbol": "3MINDIA.NS",
+  "stockName": "3M India",
+  "stockPrice": 28506.5,
+  "stockOld": 28119.45,
+  "volume": 3505,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad2"
+  },
+  "stockSymbol": "UNOMINDA.NS",
+  "stockName": "Uno Minda",
+  "stockPrice": 582.95,
+  "stockOld": 589.5,
+  "volume": 43915,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad3"
+  },
+  "stockSymbol": "VOLTAS.NS",
+  "stockName": "Voltas",
+  "stockPrice": 836.4,
+  "stockOld": 836.75,
+  "volume": 409619,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad4"
+  },
+  "stockSymbol": "IGL.NS",
+  "stockName": "Indraprastha Gas",
+  "stockPrice": 446.75,
+  "stockOld": 448.05,
+  "volume": 225053,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad5"
+  },
+  "stockSymbol": "HONAUT.NS",
+  "stockName": "Honeywell Auto",
+  "stockPrice": 42094.55,
+  "stockOld": 42484.05,
+  "volume": 1266,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad6"
+  },
+  "stockSymbol": "LINDEINDIA.NS",
+  "stockName": "Linde India",
+  "stockPrice": 4959,
+  "stockOld": 4958.5,
+  "volume": 8563,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad7"
+  },
+  "stockSymbol": "NMDC.NS",
+  "stockName": "NMDC",
+  "stockPrice": 112.5,
+  "stockOld": 113.7,
+  "volume": 5082235,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad8"
+  },
+  "stockSymbol": "SUPREMEIND.NS",
+  "stockName": "Supreme Inds.",
+  "stockPrice": 4023.3,
+  "stockOld": 3851.15,
+  "volume": 2123279,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aad9"
+  },
+  "stockSymbol": "ACC.NS",
+  "stockName": "ACC",
+  "stockPrice": 1949.1,
+  "stockOld": 1960.95,
+  "volume": 428185,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aada"
+  },
+  "stockSymbol": "MRF.NS",
+  "stockName": "MRF",
+  "stockPrice": 105900.05,
+  "stockOld": 106355.6,
+  "volume": 2472,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aadb"
+  },
+  "stockSymbol": "CONCOR.NS",
+  "stockName": "Container Corpn.",
+  "stockPrice": 678.65,
+  "stockOld": 696.55,
+  "volume": 1343727,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aadc"
+  },
+  "stockSymbol": "ALKEM.NS",
+  "stockName": "Alkem Lab",
+  "stockPrice": 3865,
+  "stockOld": 4141.4,
+  "volume": 648984,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aadd"
+  },
+  "stockSymbol": "LTTS.NS",
+  "stockName": "L&T Technology",
+  "stockPrice": 4276,
+  "stockOld": 4241.1,
+  "volume": 60910,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aade"
+  },
+  "stockSymbol": "ASTRAL.NS",
+  "stockName": "Astral",
+  "stockPrice": 1984.7,
+  "stockOld": 1974.15,
+  "volume": 705850,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aadf"
+  },
+  "stockSymbol": "COLPAL.NS",
+  "stockName": "Colgate-Palmoliv",
+  "stockPrice": 1967.85,
+  "stockOld": 1964.6,
+  "volume": 139993,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae0"
+  },
+  "stockSymbol": "ABBOTINDIA.NS",
+  "stockName": "Abbott India",
+  "stockPrice": 24027,
+  "stockOld": 23887.75,
+  "volume": 6310,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae1"
+  },
+  "stockSymbol": "NAUKRI.NS",
+  "stockName": "Info Edg.(India)",
+  "stockPrice": 4640,
+  "stockOld": 4649.6,
+  "volume": 63895,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae2"
+  },
+  "stockSymbol": "CGPOWER.NS",
+  "stockName": "CG Power & Indu.",
+  "stockPrice": 403.4,
+  "stockOld": 401.4,
+  "volume": 253149,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae3"
+  },
+  "stockSymbol": "CUMMINSIND.NS",
+  "stockName": "Cummins India",
+  "stockPrice": 1760.1,
+  "stockOld": 1764.65,
+  "volume": 1089161,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae4"
+  },
+  "stockSymbol": "SCHAEFFLER.NS",
+  "stockName": "Schaeffler India",
+  "stockPrice": 3023.35,
+  "stockOld": 3014.55,
+  "volume": 11745,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae5"
+  },
+  "stockSymbol": "PIIND.NS",
+  "stockName": "P I Industries",
+  "stockPrice": 3871.65,
+  "stockOld": 3877.45,
+  "volume": 253747,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae6"
+  },
+  "stockSymbol": "ZYDUSLIFE.NS",
+  "stockName": "Zydus Lifesci.",
+  "stockPrice": 651.3,
+  "stockOld": 657.85,
+  "volume": 440592,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae7"
+  },
+  "stockSymbol": "TIINDIA.NS",
+  "stockName": "Tube Investments",
+  "stockPrice": 2893,
+  "stockOld": 2946.55,
+  "volume": 37064,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae8"
+  },
+  "stockSymbol": "TATACONSUM.NS",
+  "stockName": "Tata Consumer",
+  "stockPrice": 839.65,
+  "stockOld": 850.55,
+  "volume": 423775,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aae9"
+  },
+  "stockSymbol": "CIPLA.NS",
+  "stockName": "Cipla",
+  "stockPrice": 1250.15,
+  "stockOld": 1258.95,
+  "volume": 714275,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaea"
+  },
+  "stockSymbol": "GAIL.NS",
+  "stockName": "GAIL (India)",
+  "stockPrice": 116.45,
+  "stockOld": 117.6,
+  "volume": 4667701,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaeb"
+  },
+  "stockSymbol": "DRREDDY.NS",
+  "stockName": "Dr Reddy's Labs",
+  "stockPrice": 5849.55,
+  "stockOld": 5851.15,
+  "volume": 175064,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaec"
+  },
+  "stockSymbol": "DIVISLAB.NS",
+  "stockName": "Divi's Lab.",
+  "stockPrice": 3704.5,
+  "stockOld": 3745.5,
+  "volume": 182760,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaed"
+  },
+  "stockSymbol": "HAVELLS.NS",
+  "stockName": "Havells India",
+  "stockPrice": 1305,
+  "stockOld": 1290.9,
+  "volume": 173860,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaee"
+  },
+  "stockSymbol": "AMBUJACEM.NS",
+  "stockName": "Ambuja Cements",
+  "stockPrice": 458,
+  "stockOld": 457.2,
+  "volume": 1522502,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaef"
+  },
+  "stockSymbol": "EICHERMOT.NS",
+  "stockName": "Eicher Motors",
+  "stockPrice": 3386.75,
+  "stockOld": 3414.7,
+  "volume": 188467,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf0"
+  },
+  "stockSymbol": "SHREECEM.NS",
+  "stockName": "Shree Cement",
+  "stockPrice": 24099.95,
+  "stockOld": 24174.55,
+  "volume": 4740,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf1"
+  },
+  "stockSymbol": "GODREJCP.NS",
+  "stockName": "Godrej Consumer",
+  "stockPrice": 1022.85,
+  "stockOld": 1026.3,
+  "volume": 286545,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf2"
+  },
+  "stockSymbol": "TECHM.NS",
+  "stockName": "Tech Mahindra",
+  "stockPrice": 1220.3,
+  "stockOld": 1235.8,
+  "volume": 1686375,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf3"
+  },
+  "stockSymbol": "BAJAJ-AUTO.NS",
+  "stockName": "Bajaj Auto",
+  "stockPrice": 4616.5,
+  "stockOld": 4636.6,
+  "volume": 130557,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf4"
+  },
+  "stockSymbol": "SIEMENS.NS",
+  "stockName": "Siemens",
+  "stockPrice": 3694.6,
+  "stockOld": 3668.45,
+  "volume": 109569,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf5"
+  },
+  "stockSymbol": "PIDILITIND.NS",
+  "stockName": "Pidilite Inds.",
+  "stockPrice": 2540.9,
+  "stockOld": 2520.1,
+  "volume": 218908,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf6"
+  },
+  "stockSymbol": "NESTLEIND.NS",
+  "stockName": "Nestle India",
+  "stockPrice": 21877.35,
+  "stockOld": 21989.75,
+  "volume": 14835,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf7"
+  },
+  "stockSymbol": "ULTRACEMCO.NS",
+  "stockName": "UltraTech Cem.",
+  "stockPrice": 8084.95,
+  "stockOld": 8102.2,
+  "volume": 82161,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf8"
+  },
+  "stockSymbol": "DMART.NS",
+  "stockName": "Avenue Super.",
+  "stockPrice": 3562.35,
+  "stockOld": 3598.2,
+  "volume": 178866,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaf9"
+  },
+  "stockSymbol": "SUNPHARMA.NS",
+  "stockName": "Sun Pharma.Inds.",
+  "stockPrice": 1132.3,
+  "stockOld": 1150.3,
+  "volume": 883854,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aafa"
+  },
+  "stockSymbol": "MARUTI.NS",
+  "stockName": "Maruti Suzuki",
+  "stockPrice": 9388.05,
+  "stockOld": 9397.6,
+  "volume": 213195,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aafb"
+  },
+  "stockSymbol": "ASIANPAINT.NS",
+  "stockName": "Asian Paints",
+  "stockPrice": 3202.4,
+  "stockOld": 3237.9,
+  "volume": 334016,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aafc"
+  },
+  "stockSymbol": "HCLTECH.NS",
+  "stockName": "HCL Technologies",
+  "stockPrice": 1167.85,
+  "stockOld": 1134.3,
+  "volume": 4991576,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aafd"
+  },
+  "stockSymbol": "HINDUNILVR.NS",
+  "stockName": "Hind. Unilever",
+  "stockPrice": 2511,
+  "stockOld": 2536.7,
+  "volume": 718067,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aafe"
+  },
+  "stockSymbol": "HBLPOWER.NS",
+  "stockName": "HBL power systems",
+  "stockPrice": 217.75,
+  "stockOld": 219.2,
+  "volume": 1219659,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1aaff"
+  },
+  "stockSymbol": "ANDHRSUGAR.NS",
+  "stockName": "Andhra sugar",
+  "stockPrice": 106.8,
+  "stockOld": 107,
+  "volume": 58566,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab00"
+  },
+  "stockSymbol": "DALMIASUG.NS",
+  "stockName": "Dalmia sugar",
+  "stockPrice": 351.65,
+  "stockOld": 355.2,
+  "volume": 91534,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab01"
+  },
+  "stockSymbol": "APOLLOPIPE.NS",
+  "stockName": "Apollo Pipes",
+  "stockPrice": 705.95,
+  "stockOld": 711.4,
+  "volume": 32206,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab02"
+  },
+  "stockSymbol": "SEAMECLTD.NS",
+  "stockName": "Seamecltd",
+  "stockPrice": 728,
+  "stockOld": 749.15,
+  "volume": 15698,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab03"
+  },
+  "stockSymbol": "VADILALIND.NS",
+  "stockName": "Vadilal India",
+  "stockPrice": 2895.05,
+  "stockOld": 2895.4,
+  "volume": 40014,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab04"
+  },
+  "stockSymbol": "ATULAUTO.NS",
+  "stockName": "Atul Auto",
+  "stockPrice": 369,
+  "stockOld": 371.5,
+  "volume": 94789,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab05"
+  },
+  "stockSymbol": "JAMNAAUTO.NS",
+  "stockName": "Jamna Auto",
+  "stockPrice": 110.95,
+  "stockOld": 110.95,
+  "volume": 476728,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab06"
+  },
+  "stockSymbol": "AMBIKCO.NS",
+  "stockName": "Ambiko",
+  "stockPrice": 1478.05,
+  "stockOld": 1498.6,
+  "volume": 9246,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab07"
+  },
+  "stockSymbol": "ABB.NS",
+  "stockName": "ABB",
+  "stockPrice": 4508.45,
+  "stockOld": 4505.1,
+  "volume": 96898,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab08"
+  },
+  "stockSymbol": "TTKPRESTIG.NS",
+  "stockName": "TTK prestige",
+  "stockPrice": 779.8,
+  "stockOld": 782.55,
+  "volume": 11230,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab09"
+  },
+  "stockSymbol": "EMAMILTD.NS",
+  "stockName": "Emami Ltd",
+  "stockPrice": 517.85,
+  "stockOld": 514,
+  "volume": 409650,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab0a"
+  },
+  "stockSymbol": "PASUPTAC.NS",
+  "stockName": "Pasuptac",
+  "stockPrice": 28.3,
+  "stockOld": 30.5,
+  "volume": 199954,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab0b"
+  },
+  "stockSymbol": "KINGFA.NS",
+  "stockName": "Kingfa",
+  "stockPrice": 2326.85,
+  "stockOld": 2300.1,
+  "volume": 5074,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab0c"
+  },
+  "stockSymbol": "PRECWIRE.NS",
+  "stockName": "Precision wires",
+  "stockPrice": 91.45,
+  "stockOld": 92.1,
+  "volume": 168477,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab0d"
+  },
+  "stockSymbol": "MARICO.NS",
+  "stockName": "Marico",
+  "stockPrice": 576.3,
+  "stockOld": 576.85,
+  "volume": 841695,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab0e"
+  },
+  "stockSymbol": "RELAXO.NS",
+  "stockName": "Relaxo footwears",
+  "stockPrice": 969.05,
+  "stockOld": 947.7,
+  "volume": 287604,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab0f"
+  },
+  "stockSymbol": "PAGEIND.NS",
+  "stockName": "Page Industries",
+  "stockPrice": 40342.45,
+  "stockOld": 40072.95,
+  "volume": 44552,
+  "_class": "com.example.demo.bean.stock"
+},{
+  "_id": {
+    "$oid": "64c10fe3fd7db6c57ed1ab10"
+  },
+  "stockSymbol": "POLYCAB.NS",
+  "stockName": "Polycab wires",
+  "stockPrice": 4650.95,
+  "stockOld": 4584.65,
+  "volume": 430747,
+  "_class": "com.example.demo.bean.stock"
+}]
